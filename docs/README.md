@@ -5,12 +5,24 @@
 
 ## 快速开始
 全局安装 `docsify-cli` 工具
+
 ```bash
 npm i docsify-cli -g
 ```
+
 npm 查看全局安装过的包命令
+
 ```bash
 npm list -g --depth 0
+git config --global user.name "[name]"
+```
+
+```bash
+echo "hello"
+```
+
+```html
+<div class="nihao "> Hello World!! <div>
 ```
 
 ## 初始化项目
