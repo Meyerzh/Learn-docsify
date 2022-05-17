@@ -28,12 +28,17 @@ docsify serve docs
 ```
 
 如果你的系统里安装了 Python 的话，也可以很容易地启动一个静态服务器去预览你的网站。
+
 ```python2
 cd docs && python -m SimpleHTTPServer 3000
 ```
+
 ```python3
 cd docs && python -m http.server 3000
+```
 
-python3 -m http.server 3000 # Mac
+python3 在mac上的命令有些不一样
+```python3
+python3 -m http.server 3000
 ```
 
