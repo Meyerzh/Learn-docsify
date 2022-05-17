@@ -1,6 +1,6 @@
 # 快速学习 `docsify` 文档
 
-> An awesome project.
+> An awesome project. :100: :pencil:
 
 
 ## 快速开始

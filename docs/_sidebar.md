@@ -2,7 +2,7 @@
 
   * [Home](/)
 
-* 定制化
+* DXP
 
   * [Guide](guide.md "The greatest guide in the world")
 
