@@ -41,4 +41,3 @@ python3 在mac上的命令有些不一样
 ```python3
 python3 -m http.server 3000
 ```
-

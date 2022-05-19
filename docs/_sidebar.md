@@ -1,11 +1,14 @@
-* 入门
+<!-- docs/_sidebar.md -->
+* **开始**
+  * [首页](/)
 
-  * [Home](/)
+* **ADP**
+  * [1750](ADP-1750.md)
+* **开发常用**
+  * [Git](git)
+  * [Drush](drush)
+* **工具**
+  * [工具清单](tools)
+  * [其他页面](other.html)
 
-* DXP
 
-  * [Guide](guide.md "The greatest guide in the world")
-
-* 开发工具
-
-  * [Git](/page/git-cheat-sheet.md "Git 速查表")
